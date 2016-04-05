@@ -1,2 +1,2 @@
-include "multicmp"
+include "singlecmp", "multicmp"
 
